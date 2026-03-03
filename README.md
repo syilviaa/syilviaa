@@ -1,10 +1,10 @@
 Creative Technologist focused on Web Development
 
-I build small tools that make everyday life easier and more lively.
+🙌 I build small tools that make everyday life easier and more lively.
 
-And also do some graphic design
+🖌️ And also do some graphic design
 
-Tech Stack
+- Tech Stack
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -17,7 +17,6 @@ Tech Stack
 </div>
 
 
-Activity
-
+- Activity
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
