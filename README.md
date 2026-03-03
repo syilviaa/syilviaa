@@ -2,6 +2,8 @@ Creative Technologist focused on Web Development
 
 I build small tools that make everyday life easier and more lively.
 
+And also do some graphic design
+
 Tech Stack
 
 <div>
@@ -16,8 +18,6 @@ Tech Stack
 
 
 Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
 
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
