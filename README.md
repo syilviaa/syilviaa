@@ -4,7 +4,7 @@ Creative Technologist focused on Web Development
 
 🖌️ And also do some graphic design
 
-- Tech Stack
+Tech Stack
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -17,6 +17,6 @@ Creative Technologist focused on Web Development
 </div>
 
 
-- Activity
+Activity
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
