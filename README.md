@@ -1,8 +1,3 @@
-Creative Technologist focused on Web Development
-
-🙌 I build small tools that make everyday life easier and more lively.
-
-🖌️ And also do some graphic design
 
 Tech Stack
 
